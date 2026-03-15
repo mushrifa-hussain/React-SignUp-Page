@@ -1,3 +1,3 @@
 # SignUp-Page
 
-select the gh-pagesbranch
+select the gh-pages branch
